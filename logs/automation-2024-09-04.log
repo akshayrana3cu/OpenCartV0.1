@@ -1,0 +1,61 @@
+07:06:33.652 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml"
+07:06:34.178 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml
+
+07:06:38.223 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+07:06:39.958 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+07:07:25.256 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml"
+07:07:40.420 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml"
+07:07:40.976 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml
+
+07:07:44.944 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+07:07:44.949 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+07:07:45.199 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+07:07:45.921 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+07:07:45.922 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+07:07:49.762 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+07:07:49.813 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+07:07:49.813 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+07:07:49.813 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+07:07:52.496 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+07:07:52.499 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+07:07:52.657 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+07:07:53.188 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+07:07:53.195 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+07:07:54.131 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+07:07:54.232 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+11:00:46.829 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\arana3a\Documents\Automation\opencart-master\grouping.xml"
+11:00:47.245 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\arana3a\Documents\Automation\opencart-master\grouping.xml
+
+10:32:08.878 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\arana3a\Documents\Automation\opencart-master\grouping.xml"
+10:32:09.309 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\arana3a\Documents\Automation\opencart-master\grouping.xml
+
+19:45:16.445 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\arana3a\Documents\Automation\opencart-master\mastersuite.xml"
+19:45:16.970 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\arana3a\Documents\Automation\opencart-master\mastersuite.xml
+
+19:54:57.307 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\arana3a\Documents\Automation\opencart-master\mastersuite.xml"
+19:54:57.734 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\arana3a\Documents\Automation\opencart-master\mastersuite.xml
+
+19:56:55.620 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\arana3a\Documents\Automation\opencart-master\mastersuite.xml"
+19:56:56.017 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\arana3a\Documents\Automation\opencart-master\mastersuite.xml
+
+19:59:15.200 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\arana3a\Documents\Automation\opencart-master\mastersuite.xml"
+19:59:15.623 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\arana3a\Documents\Automation\opencart-master\mastersuite.xml
+
+19:59:25.100 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+19:59:25.100 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+19:59:25.296 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+19:59:26.025 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+19:59:26.025 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+19:59:27.711 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+19:59:27.749 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+19:59:27.754 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+19:59:27.754 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+20:00:18.574 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\arana3a\Documents\Automation\opencart-master\mastersuite.xml"

@@ -1,0 +1,23 @@
+20:00:19.092 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\arana3a\Documents\Automation\opencart-master\mastersuite.xml
+
+20:00:27.820 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+20:00:27.820 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+20:00:27.961 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+20:00:28.640 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+20:00:28.640 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+20:00:30.679 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+20:00:30.715 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+20:00:30.719 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+20:00:30.719 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+20:00:40.032 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+20:00:40.032 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+20:00:40.139 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+20:00:40.701 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+20:00:40.717 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+20:00:42.463 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+20:00:42.527 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+20:00:49.894 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+20:00:50.799 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+20:00:58.227 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+20:01:00.411 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
